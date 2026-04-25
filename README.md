@@ -152,6 +152,6 @@ perfect-wheels/
    ```
 
 
-## 🔗 Documentation Links
+##  Documentation Links
 *   [Frontend Documentation](./frontend/README.md)
 *   [Backend Documentation](./backend/README.md)
