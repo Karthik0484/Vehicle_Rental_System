@@ -42,7 +42,7 @@ This is the core engine behind Perfect Wheels. Built with Django and Django REST
 5. The remaining deposit is safely moved to the user's `refundable_balance`.
 6. User can request a withdrawal of their `refundable_balance` to their bank account.
 
-## 🛠 Tech Stack
+## Tech Stack
 *   **Framework**: Django & Django REST Framework (DRF)
 *   **Database**: MySQL
 *   **Authentication**: JWT (JSON Web Tokens)
