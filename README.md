@@ -12,12 +12,12 @@ Perfect Wheels allows users to browse a fleet of vehicles, view detailed specifi
 *   **Comprehensive User Dashboard**: Users can track their bookings, view booking invoices, check wallet balances, and see pending deductions.
 *   **Review System**: Users can rate and review vehicles after completing their trip.
 
-## 🛠 Tech Stack
+##  Tech Stack
 *   **Frontend**: Next.js, React, Tailwind CSS (Responsive Dark Theme UI)
 *   **Backend**: Django, Django REST Framework (DRF), MySQL
 *   **APIs**: Token-based RESTful APIs
 
-## 🔌 Third-Party Integrations
+##  Third-Party Integrations
 *   **Razorpay**: Used for securely processing wallet top-ups and checkout payments.
 *   **Google Authentication**: Simplifies the sign-up and login process via OAuth2.
 *   **Cloudinary**: Stores and serves all media properties ensuring high-performance global delivery.
